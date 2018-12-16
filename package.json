@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "email-validator": "^2.0.4",
     "gatsby": "^2.0.0",
     "gatsby-cli": "^2.4.1",
     "gatsby-plugin-postcss": "^2.0.0",
@@ -16,9 +17,8 @@
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-helmet": "^5.2.0",
+    "react-typed": "^1.1.0",
     "react-typography": "^0.16.13",
-    "typed.js": "^2.0.9",
-    "typeit": "^5.10.7",
     "typography": "^0.16.17"
   },
   "keywords": [
