@@ -7,7 +7,7 @@ const IndexPage = () => (
   <Layout>
       <div>
         <header class="bg-black sans-serif">
-          <div className="mw9 center pt5 ph4 ph7-ns">
+          <div className="mw9 pt5 ph4 ph7-ns">
             <h3 className="f2 f1-n2 f-headline-l lh-title mv0">
               <span className="bg-white lh-copy black pa2 tracked-tight">
                 Gamma Ray
