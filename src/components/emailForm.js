@@ -5,13 +5,13 @@ const UNSUBMITTED = 'UNSUBMITTED'
 const SUBMITTING = 'SUBMITTNG'
 const SUBMITTED = 'SUBMITTED'
 
-const ThankYouMessage = () => <div>thank you!</div>
+const ThankYouMessage = () => <div><p className="b f3 pb4">You're Amazing.</p></div>
 
 export default class Form extends React.Component {
   state = {
     email: '',
     submittable: false,
-    status: SUBMITTED,
+    status: UNSUBMITTED,
   }
 
   handleSubmit = e => {
@@ -71,7 +71,7 @@ export default class Form extends React.Component {
           <input
             id="name"
             class="input-reset ba pa2 bw1 mb db w-100"
-            style={{ height: '32px' }}
+            style={{ height: '48px' }}
             type="email"
             aria-describedby="name-desc"
             placeholder={'youareamazing@email.here'}
