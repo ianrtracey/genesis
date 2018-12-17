@@ -7,10 +7,10 @@ const Terminal = () => (
       loop
       typeSpeed={60}
       backSpeed={20}
-      strings={['Art + Technology', 'Data + Creativity', '']}
+      strings={['Art + Technology', 'Audacious Ideas', 'Bold Statements']}
       smartBackspace
       shuffle={false}
-      backDelay={1000}
+      backDelay={2000}
       fadeOut={false}
       fadeOutDelay={300}
       showCursor
