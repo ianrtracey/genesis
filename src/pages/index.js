@@ -7,8 +7,8 @@ const IndexPage = () => (
   <Layout>
       <div>
         <header class="bg-black sans-serif">
-          <div className="mw9 pt5 ph4 ph7-ns">
-            <h3 className="f2 f1-n2 f-headline-l lh-title mv0">
+          <div className="mw9 pt5 ph4 ph7-l">
+            <h3 className="f2 lh-title mv0">
               <span className="bg-white lh-copy black pa2 tracked-tight">
                 Gamma Ray
               </span>
@@ -16,7 +16,6 @@ const IndexPage = () => (
               <span className="bg-white lh-copy black pa2 tracked-tight">
                 Art Collective
               </span>
-
             </h3>
             <h1 className="white-90 f3 f2-ns san-serif tracked-tight measured pt4">
               Creating new human experiences through
@@ -40,8 +39,8 @@ const IndexPage = () => (
             </div>
           </div>
         </header>
-        <div className="bg-white mt5 mw10 mb2" style={{ width: '100%' }}>
-          <div className="pt3 ph4 ph7-ns">
+        <div className="bg-white mt2 mw10 mb2" style={{ width: '100%' }}>
+          <div className="pt3 ph4 ph7-l">
             <h1 className="f2-ns f3 mb0">Coming 2019</h1>
             <EmailForm />
           </div>
