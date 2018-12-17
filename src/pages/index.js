@@ -41,7 +41,8 @@ const IndexPage = () => (
         </header>
         <div className="bg-white mt2 mw10 mb2" style={{ width: '100%' }}>
           <div className="pt3 ph4 ph7-l">
-            <h1 className="f2-ns f3 mb0">Coming 2019</h1>
+            <h1 className="f2-ns f3 mb0 pb0">Coming 2019</h1>
+            <p className="f4 mb0">Gamma Ray is an organization dedicated to bringing you some of the most bold, audacious and thought-provoking experimental artists in the world</p>
             <EmailForm />
           </div>
         </div>
