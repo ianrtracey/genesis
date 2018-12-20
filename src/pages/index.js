@@ -6,7 +6,7 @@ import EmailForm from '../components/emailForm'
 const IndexPage = () => (
   <Layout>
     <div>
-      <header class="bg-black sans-serif">
+      <header className="bg-black sans-serif">
         <div className="mw9 pt5 ph4 ph7-l">
           <h3 className="f2 lh-title mv0">
             <span className="bg-white lh-copy black pa2 tracked-tight">
