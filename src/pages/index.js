@@ -10,7 +10,7 @@ const IndexPage = () => (
         <div className="mw9 pt5 ph4 ph7-l">
           <h3 className="f2 lh-title mv0">
             <span className="bg-white lh-copy black pa2 tracked-tight">
-              Gamma Ray
+              Radioactive
             </span>
             <br />
             <span className="bg-white lh-copy black pa2 tracked-tight">
@@ -40,9 +40,9 @@ const IndexPage = () => (
         <div className="pt3 ph4 ph7-l">
           <h1 className="f2-ns f3 mb0 pb0">Coming 2019</h1>
           <p className="f4 mb0">
-            Gamma Ray is an organization dedicated to bringing you some of the
-            most bold, audacious and thought-provoking experimental artists in
-            the world
+            Radioactive Art Collective is an organization dedicated to bringing
+            you some of the most bold, audacious and thought-provoking
+            experimental artists in the world
           </p>
           <EmailForm />
         </div>
